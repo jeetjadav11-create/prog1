@@ -8,7 +8,7 @@ import java.awt.geom.*;
  * @version 7.0
  */
 
-public class Circle
+public class CopyOfCircle
 {
     private int diameter;
     private int xPosition;
@@ -19,7 +19,7 @@ public class Circle
     /**
      * Create a new circle at default position with default color.
      */
-    public Circle()
+    public CopyOfCircle()
     {
         diameter = 67;
         xPosition = 200;
